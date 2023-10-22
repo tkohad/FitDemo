@@ -1,31 +1,0 @@
-
-C
-java:S1604"(Make this anonymous inner class a lambda(ı‡¤›ÿÿÿÿÿ
-C
-java:S1604"(Make this anonymous inner class a lambda(º˜­üÿÿÿÿ
->
-java:S1604"(Make this anonymous inner class a lambda(Ÿ¹×
-m
-java:S1104
-"RMake course a static final constant or non-public and provide accessors if needed.(Óéîóÿÿÿÿÿ
-o
-java:S1104"TMake course12 a static final constant or non-public and provide accessors if needed.(áÏø¥ùÿÿÿÿ
-k
-java:S1104"PMake cons a static final constant or non-public and provide accessors if needed.(ı‡¤›ÿÿÿÿÿ
-G
-java:S1444
-",Make this "public static course" field final(Óéîóÿÿÿÿÿ
-I
-java:S1444".Make this "public static course12" field final(áÏø¥ùÿÿÿÿ
-E
-java:S1444"*Make this "public static cons" field final(ı‡¤›ÿÿÿÿÿ
-U
-java:S1117
-":Rename "course" which hides the field declared at line 10.(Óéîóÿÿÿÿÿ
-U
-java:S1117":Rename "course" which hides the field declared at line 10.(áÏø¥ùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ„ÜÔ
-q
-java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Course>'(Ÿ¹×
-7
-java:S1116#"Remove this empty statement.(ôŸìúÿÿÿÿ
