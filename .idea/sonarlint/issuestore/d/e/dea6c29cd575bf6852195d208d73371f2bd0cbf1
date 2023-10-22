@@ -1,0 +1,25 @@
+
+W
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(ŠÀ—úÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+P
+java:S1854"5Remove this useless assignment to local variable "i".(¨Û•¨üÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "str3".(œáè‡
+6
+java:S2129" Remove this "String" constructor(Ï²‹Å
+?
+java:S1481")Remove this unused "str3" local variable.(œáè‡
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ŠÀ—úÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(œæ‡úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï®ÚŸıÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(Ö„üh
+<
+java:S2129"!Remove this "Integer" constructor(“›©âıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û¬ãà
+A
+java:S1481"&Remove this unused "i" local variable.(¨Û•¨üÿÿÿÿ
+I
+java:S2201".The return value of "floatValue" must be used.(Î¹«ğıÿÿÿÿ

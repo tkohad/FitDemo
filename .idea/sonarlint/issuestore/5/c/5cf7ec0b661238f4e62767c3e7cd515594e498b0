@@ -1,0 +1,23 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌÚ¤¬
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Cloud" 3 times.(·Œáòÿÿÿÿÿ
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(íãÛ©
+G
+java:S1602",Remove useless curly braces around statement(’ÂÖ…ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ÂÖ…ÿÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(½èÇ¶ÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(‰åúÄûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ø½¿¸üÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(‡½·ıûÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(´—Ñ°
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Ëè¶’
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Ó½½’úÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(°œ•ıÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¸šÿíúÿÿÿÿ
+J
+java:S1128	"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+M
+java:S1144:"7Remove this unused private "getCoursePredicate" method.(ã‰Å
